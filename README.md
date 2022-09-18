@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berlin404-TG
+- 👋 Hi, I’m Berlin404
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on REST APIs
